@@ -1,7 +1,7 @@
 import { NextResponse } from "next/server";
 
 export async function GET() {
-  const data = await process.env.VIDEO_KV?.get("video_sources");
+  const data = await VIDEO_KV.get("video_sources");
   return NextResponse.json(JSON.parse(data || "[]"));
 }
 
