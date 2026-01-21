@@ -89,6 +89,34 @@
     "baseUrl": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/",
     "group": "normal",
     "priority": 12
+  },
+  {
+    "id": "liangzi",
+    "name": "量子资源",
+    "baseUrl": "https://cj.lziapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 13
+  },
+  {
+    "id": "jinying",
+    "name": "金鹰资源",
+    "baseUrl": "https://jyzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 14
+  },
+  {
+    "id": "douban",
+    "name": "豆瓣资源",
+    "baseUrl": "https://caiji.dbzy.tv/api.php/provide/vod",
+    "group": "normal",
+    "priority": 15
+  },
+  {
+    "id": "hongniu",
+    "name": "红牛资源",
+    "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 16
   }
 ]
 
