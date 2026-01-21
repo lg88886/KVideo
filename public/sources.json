@@ -47,6 +47,13 @@
     "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
     "group": "normal",
     "priority": 7
+  },
+    {
+    "id": "feisuu",
+    "name": "feisu资源",
+    "baseUrl": "https://www.feisuzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 7
   }
 ]
 
