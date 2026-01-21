@@ -47,6 +47,230 @@
     "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
     "group": "normal",
     "priority": 7
+  }，
+  {
+    "id": "9eguoyu",
+    "name": "9e国语",
+    "baseUrl": "http://vod.9e03.com/lvdou_api.php/v1.vod",
+    "group": "normal",
+    "priority": 8
+  },
+  {
+    "id": "meijufan",
+    "name": "美剧范",
+    "baseUrl": "http://ttzmz.net/api.php/v1.vod",
+    "group": "normal",
+    "priority": 9
+  },
+  {
+    "id": "meijuchong",
+    "name": "美剧虫",
+    "baseUrl": "https://meijuchong.com/api.php/v1.vod",
+    "group": "normal",
+    "priority": 10
+  },
+  {
+    "id": "yida",
+    "name": "益达影院",
+    "baseUrl": "http://luobu.yss6080.com/mogai_api.php/v1.vod",
+    "group": "normal",
+    "priority": 11
+  },
+  {
+    "id": "damao",
+    "name": "大猫影视",
+    "baseUrl": "http://app.ishen520.com/api.php/v1.vod",
+    "group": "normal",
+    "priority": 12
+  },
+  {
+    "id": "yuyu",
+    "name": "渔渔影视",
+    "baseUrl": "http://luobo.yugenye.site/api.php/v1.vod",
+    "group": "normal",
+    "priority": 13
+  },
+  {
+    "id": "tuziwo",
+    "name": "兔子窝",
+    "baseUrl": "http://cj.huimaojia.com:12345/mogai_api.php/v1.vod",
+    "group": "normal",
+    "priority": 14
+  },
+  {
+    "id": "tangping",
+    "name": "躺平影视",
+    "baseUrl": "http://www.lltpys.com/api.php/app/",
+    "group": "normal",
+    "priority": 15
+  },
+  {
+    "id": "kan365",
+    "name": "看365",
+    "baseUrl": "https://www.kan365.xyz/api.php/app/",
+    "group": "normal",
+    "priority": 16
+  },
+  {
+    "id": "beichuan",
+    "name": "北川",
+    "baseUrl": "https://www.bcwzg.com/api.php/app/",
+    "group": "normal",
+    "priority": 17
+  },
+  {
+    "id": "zhongte",
+    "name": "钟特影视",
+    "baseUrl": "https://app.zteys.com/api.php/v1.vod",
+    "group": "normal",
+    "priority": 18
+  },
+  {
+    "id": "tiankongv2",
+    "name": "天空V2",
+    "baseUrl": "https://www.tkys.tv/xgapp.php/v2/",
+    "group": "normal",
+    "priority": 19
+  },
+  {
+    "id": "sanri",
+    "name": "三日影院",
+    "baseUrl": "https://www.3ri.net/api.php/v1.vod",
+    "group": "normal",
+    "priority": 20
+  },
+  {
+    "id": "shuanglu",
+    "name": "双鹿影院",
+    "baseUrl": "http://cr.slidc.top/mubai_api.php/m2.vod",
+    "group": "normal",
+    "priority": 21
+  },
+  {
+    "id": "fenxiang",
+    "name": "粉象视界",
+    "baseUrl": "http://42.157.129.15:34444/lvdou_api.php/v1.vod",
+    "group": "normal",
+    "priority": 22
+  },
+  {
+    "id": "lanmao",
+    "name": "懒猫影视",
+    "baseUrl": "https://lanmao.lanmaoymw.cn/api.php/v1.vod",
+    "group": "normal",
+    "priority": 23
+  },
+  {
+    "id": "ali",
+    "name": "阿里",
+    "baseUrl": "http://aliys.cn:90/api.php/v1.vod",
+    "group": "normal",
+    "priority": 24
+  },
+  {
+    "id": "qc",
+    "name": "QC",
+    "baseUrl": "https://www.qcsvip.com/mogai_api.php/v1.vod",
+    "group": "normal",
+    "priority": 25
+  },
+  {
+    "id": "huanghe",
+    "name": "黄河",
+    "baseUrl": "http://i.ledu8.cn/api.php/v1.vod",
+    "group": "normal",
+    "priority": 26
+  },
+  {
+    "id": "jiku",
+    "name": "极酷视频",
+    "baseUrl": "https://jiku.vip/mogai_api.php/v1.vod",
+    "group": "normal",
+    "priority": 27
+  },
+  {
+    "id": "juzi",
+    "name": "橘子",
+    "baseUrl": "http://jz.juzidy.vip/mogai_api.php/v1.vod",
+    "group": "normal",
+    "priority": 28
+  },
+  {
+    "id": "qifei",
+    "name": "奇飞专线",
+    "baseUrl": "http://mkk.gotka.top/api.php/v1.vod",
+    "group": "normal",
+    "priority": 29
+  },
+  {
+    "id": "tiankong",
+    "name": "天空影视",
+    "baseUrl": "https://tkys.tv/xgapp.php/v1/",
+    "group": "normal",
+    "priority": 30
+  },
+  {
+    "id": "duanyou2",
+    "name": "段友2影视",
+    "baseUrl": "https://shangjihuoke.com/api.php/tv.vod",
+    "group": "normal",
+    "priority": 31
+  },
+  {
+    "id": "nuanguang",
+    "name": "暖光影视",
+    "baseUrl": "https://app.bl210.com/api.php/v1.vod",
+    "group": "normal",
+    "priority": 32
+  },
+  {
+    "id": "tiancheng",
+    "name": "天诚影视",
+    "baseUrl": "http://tcspvip.cn/api.php/v1.vod",
+    "group": "normal",
+    "priority": 33
+  },
+  {
+    "id": "aitee",
+    "name": "艾特影视",
+    "baseUrl": "https://www.aitee.cc/api.php/v1.vod",
+    "group": "normal",
+    "priority": 34
+  },
+  {
+    "id": "duanyou1",
+    "name": "段友影视1",
+    "baseUrl": "http://js.66app.me/api.php/app/",
+    "group": "normal",
+    "priority": 35
+  },
+  {
+    "id": "bilin",
+    "name": "比邻影视",
+    "baseUrl": "http://0hzy.cn:9990/mogai_api.php/v1.vod",
+    "group": "normal",
+    "priority": 36
+  },
+  {
+    "id": "zhuijudaren",
+    "name": "追剧达人",
+    "baseUrl": "https://www.zhuijudaren.com/mogai_api.php/v1.vod",
+    "group": "normal",
+    "priority": 37
+  },
+  {
+    "id": "69yuanxian",
+    "name": "69院线",
+    "baseUrl": "http://app.269w.com/api.php/v1.vod",
+    "group": "normal",
+    "priority": 38
+  },
+  {
+    "id": "chuangyi",
+    "name": "创艺",
+    "baseUrl": "http://www.30dian.cn/api.php/v1.vod",
+    "group": "normal",
+    "priority": 39
   }
 ]
 
