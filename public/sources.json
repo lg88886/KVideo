@@ -117,6 +117,13 @@
     "baseUrl": "https://www.hongniuzy2.com/api.php/provide/vod",
     "group": "normal",
     "priority": 16
+  },  
+  {
+    "id": "baofeng",
+    "name": "暴风资源",
+    "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+    "group": "normal",
+    "priority": 17
   }
 ]
 
