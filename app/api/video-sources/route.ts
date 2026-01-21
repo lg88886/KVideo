@@ -7,7 +7,7 @@ export async function GET() {
 
 export async function POST(request: Request) {
   const body = await request.json();
-  await process.env.VIDEO_KV?.put(
+  await VIDEO_KV.put(
     "video_sources",
     JSON.stringify(body)
   );
