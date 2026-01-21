@@ -7,7 +7,7 @@
     "priority": 1
   },
   {
-    "id": "zuid",
+    "id": "zuida",
     "name": "最大资源",
     "baseUrl": "https://api.zuidapi.com/api.php/provide/vod",
     "group": "normal",
@@ -21,39 +21,74 @@
     "priority": 3
   },
   {
-    "id": "baiduyun",
-    "name": "百度云资源",
-    "baseUrl": "https://api.apibdry.com/api.php/provide/vod",
+    "id": "360",
+    "name": "360资源",
+    "baseUrl": "https://360zy.com/api.php/provide/vod/",
     "group": "normal",
     "priority": 4
   },
   {
-    "id": "baofeng",
-    "name": "暴风资源",
-    "baseUrl": "https://bfzyapi.com/api.php/provide/vod",
+    "id": "modu",
+    "name": "魔都资源",
+    "baseUrl": "https://caiji.moduapi.cc/api.php/provide/vod/from/modum3u8/",
     "group": "normal",
     "priority": 5
   },
   {
-    "id": "qihu",
-    "name": "奇虎资源",
-    "baseUrl": "https://caiji.qhzyapi.com/api.php/provide/vod",
+    "id": "ikan",
+    "name": "ikan资源",
+    "baseUrl": "https://ikunzyapi.com/api.php/provide/vod/from/ikm3u8/",
     "group": "normal",
     "priority": 6
   },
   {
-    "id": "huohu",
-    "name": "火狐资源",
-    "baseUrl": "https://hhzyapi.com/api.php/provide/vod",
+    "id": "haohua",
+    "name": "豪华资源",
+    "baseUrl": "https://hhzyapi.com/api.php/provide/vod/from/hhm3u8",
     "group": "normal",
     "priority": 7
   },
     {
-    "id": "feisuu",
-    "name": "feisu资源",
-    "baseUrl": "https://www.feisuzyapi.com/api.php/provide/vod",
+    "id": "guangsu",
+    "name": "光速资源",
+    "baseUrl": "https://api.guangsuapi.com/api.php/provide/vod/from/gsm3u8/",
     "group": "normal",
     "priority": 7
+  },
+  {
+    "id": "subo",
+    "name": "速播资源",
+    "baseUrl": "https://subocaiji.com/api.php/provide/vod/",
+    "group": "normal",
+    "priority": 8
+  },
+  {
+    "id": "baidu",
+    "name": "百度资源",
+    "baseUrl": "https://api.apibdzy.com/api.php/provide/vod/from/dbm3u8/",
+    "group": "normal",
+    "priority": 9
+  },
+  {
+    "id": "youku",
+    "name": "优酷资源",
+    "baseUrl": "https://api.ukuapi.com/api.php/provide/vod/from/ukm3u8/",
+    "group": "normal",
+    "priority": 10
+  },
+  {
+    "id": "yinghua",
+    "name": "樱花资源",
+    "baseUrl": "https://m3u8.apiyhzy.com/api.php/provide/vod/from/yhm3u8/",
+    "group": "normal",
+    "priority": 11
+  },
+  {
+    "id": "wujin",
+    "name": "无尽资源",
+    "baseUrl": "https://api.wujinapi.com/api.php/provide/vod/from/wjm3u8/",
+    "group": "normal",
+    "priority": 12
   }
 ]
 
